@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615421167 source:c:\mystuffs\coding\projects\c++\sem2\task4\main.cpp
+	<iostream>
+	"List.h"
+	<windows.h>
+
+1615420548 c:\mystuffs\coding\projects\c++\sem2\task4\list.h
+
+1615421273 source:c:\mystuffs\coding\projects\c++\sem2\task4\list.cpp
+	<iostream>
+	"List.h"
+
